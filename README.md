@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merlin-deborah-67b718228/)](https://www.linkedin.com/in/merlin-deborah-67b718228/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18102431/merlia-)
+[![Linkedin Badge](https://img.shields.io/badge/-Merlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merlin-deborah-67b718228/)](https://www.linkedin.com/in/merlin-deborah-67b718228/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Merlin-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Merlin-yellow)](https://stackoverflow.com/users/18102431/merlia-)
 
 I'm
 A Student at GCT.
