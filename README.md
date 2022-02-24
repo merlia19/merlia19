@@ -22,7 +22,7 @@ I'm a curious and creative person.
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=merlia19&theme=react-dark&area=true)
-<!--
+
 
 
 Here are some ideas to get you started:
